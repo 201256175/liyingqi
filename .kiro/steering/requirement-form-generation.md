@@ -57,3 +57,4 @@ inclusion: manual
 - 如果某个字段MRD中没有明确信息，标注 `⚠️待确认` 并给出推测建议
 - "对接数据产品经理"默认填用户自己（liyingqi1），除非用户另行指定
 - 输出要简洁，用户可以直接复制到表单，不需要多余解释
+- **输出表格后必须附上表单填写链接**：[点击填写需求表格](https://hisense.feishu.cn/share/base/form/shrcnb0ck63QZBlF1ISHxtLnquc)
